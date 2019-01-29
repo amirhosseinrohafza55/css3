@@ -1,0 +1,108 @@
+#myspan{
+    background-color: rebeccapurple;
+    font-size: 
+}
+
+.fas fa-power-off{
+font-size: 50px;
+color: chartreuse;
+background-color: gray;
+}
+.helloworld{
+background-color: red;
+}
+.myol{
+    background-color: rebeccapurple;
+    display: flex;
+    text-decoration: none;
+    direction: rtl;
+    margin: 20px;
+}
+.myol li{
+    padding: 15px;
+}
+#lefttd{
+    width: 20%;
+}
+#righttd{
+    width: 20%;
+}
+#centertd{
+    width: 60%;
+}
+tr{
+    width: 100%;
+}
+table{
+    width: 100%;
+    height: 100%;
+}
+.footer{
+    background-color: aqua;
+}
+.menu{
+    background-color: darkmagenta;
+}
+.tdleft ,.tdright{
+    width: 15%;
+}
+.tdcenter{
+    width: 70%;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+.div{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 47px;
+    background-color: blueviolet;
+}
+.p{
+    border-radius:30px ;
+    background: green;
+    padding: 5px;
+}
+#lefttd{
+width: 30%;
+background-color: rebeccapurple;
+
+border: 1px solid rgba(100,100,100);
+
+}
+#righttd{
+    width: 30%;
+    background-color: aliceblue;
+    
+}
+#centertd{
+    width: 40%;
+    background-color: antiquewhite;
+    
+}
+#lefttd , #righttd , #centertd{
+    border: 1px solid rgba(100,100,100,.3);
+    height: 700px;
+}
+.product{
+    text-align: center;
+    border: 1px solid rgba(100,100,100,.2);
+    height: 200px;
+    border-radius: 5px;
+}
+#footter{
+    background-color: whitesmoke;
+    border: 1px solid rgba(100,100,100,.2);
+    height: 10px;
+}
+#banner{
+    background-color: #333;
+    color: white;
+   height: 150px;
+}
+table{
+width: 100%;
+text-align: center;
+
+}
